@@ -1,0 +1,33 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/yanglin/Developer/GitHub/SwifterSwift/Sources/Extensions/SwiftStdlib/StringExtensions.swift",
+      "line": 1178,
+      "symbol": "String.glyphCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yanglin/Developer/GitHub/SwifterSwift/Sources/Extensions/SwiftStdlib/StringExtensions.swift",
+      "line": 1204,
+      "symbol": "String.emojiString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yanglin/Developer/GitHub/SwifterSwift/Sources/Extensions/SwiftStdlib/StringExtensions.swift",
+      "line": 1208,
+      "symbol": "String.emojis",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yanglin/Developer/GitHub/SwifterSwift/Sources/Extensions/SwiftStdlib/UnicodeScalarExtensions.swift",
+      "line": 43,
+      "symbol": "UnicodeScalar.isZeroWidthJoiner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/yanglin/Developer/GitHub/SwifterSwift"
+}

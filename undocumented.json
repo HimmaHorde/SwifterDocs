@@ -27,6 +27,13 @@
       "symbol": "UnicodeScalar.isZeroWidthJoiner",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yanglin/Developer/GitHub/SwifterSwift/Sources/Extensions/SwifterSwift.swift",
+      "line": 330,
+      "symbol": "SS",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
     }
   ],
   "source_directory": "/Users/yanglin/Developer/GitHub/SwifterSwift"
